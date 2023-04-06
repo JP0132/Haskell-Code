@@ -1,2 +1,2 @@
 # Haskell-Code
-Haskell Coding Exercises + Coirsework I completed
+Haskell Coding Exercises + Coursework I completed
